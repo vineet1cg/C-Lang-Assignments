@@ -1,5 +1,5 @@
 #include<stdio.h>
-void even_odd(int num,int num2,char ch){
+void even_odd(int num,int num2){
     
     int num3= num + num2;
    printf("%d",num + num2);
